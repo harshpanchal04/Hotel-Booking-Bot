@@ -1,8 +1,12 @@
 # Simplified Hotel Booking Chatbot
 
+## DEMO link ->  
+### https://drive.google.com/file/d/1uuuPYYiBIuudbQI_56T2-s000tjdt4ef/view?usp=sharing
+
 ## Objective
 
 Develop a RESTful API using Express.js that implements a chatbot capable of handling hotel booking queries. The chatbot utilizes OpenAI's API for natural language processing and maintains conversation history.
+
 
 ## Technical Requirements
 
